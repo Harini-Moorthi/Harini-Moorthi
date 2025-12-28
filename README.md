@@ -1,7 +1,7 @@
 
 # Hi, I'm Harini 👋
 
-**Engineering Student | Developer | AI & ML Enthusiast**
+**Engineering Student | AI & ML Enthusiast**
 
 ---
 
