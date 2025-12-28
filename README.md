@@ -1,3 +1,18 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Inter
+  &size=22
+  &pause=1000
+  &color=4A90E2
+  &center=true
+  &vCenter=true
+  &width=500
+  &lines=Engineering+Student;
+  AI+%26+ML+Enthusiast;
+  Web+Developer" />
+</p>
 
 # Hi, I'm Harini 👋
 
